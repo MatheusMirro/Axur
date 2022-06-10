@@ -1,0 +1,23 @@
+{
+  "name": "axur-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "csv-parser": "^3.0.0",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/multer": "^1.4.7",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.7.3"
+  }
+}

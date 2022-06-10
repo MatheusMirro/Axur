@@ -1,0 +1,2 @@
+Infelizmente não foi possivel colocar o endpoint REST pois o retorno da API ''get all contacts'' não está retornando corretamente o que deveria.
+Será aberto um ticket no forum da comunidade para informar o problema aos desenvolvedores.
