@@ -11,13 +11,14 @@ npm install ou npm i
 
 ## Usage
 
-```python
+
 É recomendado que siga as instruções de rotas para que a aplicação seja apresentada de maneira correta.
 Ao instalar as dependências, vá até o documento config.ts e insira sua API KEY.
 
-Após isso, é necessário que insira o documento Contatos.csv no aplicativo insomnia (recomendado) da seguinte maneira:![axurgif](https://user-images.githubusercontent.com/47016580/172969758-4524152a-42d7-44b2-9c9a-d20e2483e91f.gif)
+Após isso, é necessário que insira o documento Contatos.csv no aplicativo insomnia (recomendado) da seguinte maneira:
+![axurgif](https://user-images.githubusercontent.com/47016580/172970361-1530d8f4-aea5-41e8-b9a9-55b755584496.gif)
 
-
+```python
 O passo seguinte é acessar as rotas corretamente, começando por:
 POST na rota "/" para criar uma lista no hubspot.
 ------
@@ -37,9 +38,10 @@ Dentro do proposto não foi possível finalizar duas etapas do projeto:
 
 2º  A listagem com a quantidade de emails iguais cadastrados.
 
-Contudo, houve um problema no retorno da API ao tentar receber o acesso dos usuários criados, não obtendo êxito na conclusão da aplicação.
+Houve um problema no retorno da API ao tentar receber o acesso dos usuários criados, não obtendo êxito na conclusão da aplicação.
 
 OBS: Será aberto um ticket informando o problema para os desenvolvedores dentro do fórum da comunidade.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
