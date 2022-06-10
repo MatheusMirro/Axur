@@ -15,8 +15,8 @@ npm install ou npm i
 É recomendado que siga as instruções de rotas para que a aplicação seja apresentada de maneira correta.
 Ao instalar as dependências, vá até o documento config.ts e insira sua API KEY.
 
-Após isso, é necessário que insira o documento Contatos.csv no aplicativo insomnia (recomendado) da seguinte maneira:
-![axurgif](https://user-images.githubusercontent.com/47016580/172969690-a13636f7-0bb7-43ca-85de-0c9802df5608.gif)
+Após isso, é necessário que insira o documento Contatos.csv no aplicativo insomnia (recomendado) da seguinte maneira:![axurgif](https://user-images.githubusercontent.com/47016580/172969758-4524152a-42d7-44b2-9c9a-d20e2483e91f.gif)
+
 
 O passo seguinte é acessar as rotas corretamente, começando por:
 POST na rota "/" para criar uma lista no hubspot.
